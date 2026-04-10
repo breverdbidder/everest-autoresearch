@@ -1,0 +1,16 @@
+[project]
+name = "everest-autoresearch"
+version = "0.1.0"
+description = "Autonomous Shapira Formula V2 tuning. Pattern by @karpathy."
+requires-python = ">=3.10"
+license = "MIT"
+dependencies = [
+    "supabase>=2.0.0",
+    "python-dotenv>=1.0.0",
+    "numpy>=1.24.0",
+    "pandas>=2.0.0",
+]
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.backends._legacy:_Backend"

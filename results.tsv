@@ -1,0 +1,2 @@
+commit	mean_roi	precision_at_k	status	description
+BASELINE	0.940994	1.0	baseline	Shapira V1 verbatim — (ARV*0.70)-Repairs-10K-MIN(25K,0.15*ARV). Bootstrap mode, 35 parcels.
